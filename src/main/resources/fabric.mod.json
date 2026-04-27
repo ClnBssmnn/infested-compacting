@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "infested_compacting",
+  "version": "1.0.0",
+  "name": "Infested Stone Compacting",
+  "description": "Adds a Create compacting recipe: 4x Infested Stone -> Stone Bricks + Experience Nugget",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "~1.20.1",
+    "create": "*"
+  }
+}
